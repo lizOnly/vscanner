@@ -4,9 +4,7 @@ It is a virtual scanner that takes a mesh  in ply format as input, and outputs a
 
 ## Dependencies
 
-[gproshan]: https://github.com/larc/gproshan/tree/alpha
-
- 
+[gproshan](https://github.com/larc/gproshan/tree/alpha)
 
 Install all dependencies and run:
 
